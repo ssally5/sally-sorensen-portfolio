@@ -115,7 +115,7 @@ const portfolioData = {
       technologies: ["HTML", "Web Development", "Team Project"],
       github: "", // Add your exact repository URL when ready.
       demo: "https://ssally5.github.io/IS-orientation-project/",
-      featured: true,
+      featured: false,
       image: "assets/images/career-launchpad.png",
       details: "Career Launchpad brings career exploration and interview preparation together in one website for Information Systems students.",
       context: "Completed in 24 hours as an orientation project for the IS junior core.",
@@ -125,11 +125,20 @@ const portfolioData = {
       title: "Havenly — Home Maintenance",
       description: "Together with my team, I built a tool to help homeowners manage and schedule routine home maintenance.",
       technologies: ["Web Development", "Team Project"],
-      demo: "https://ssally5.github.io/havenly-home-maintenance/",
+      demo: "https://ayshae145.github.io/Havenly_Home/",
       github: "",
       featured: true,
       image: "assets/images/havenly-preview.png",
       details: "Havenly is a team-built tool designed to help homeowners manage and schedule routine home maintenance. It brings home maintenance planning together in one place."
+    },
+    {
+      title: "Jill & Brady — Wedding Website",
+      description: "Designed and built a wedding website for my sister, featuring celebration details, a photo gallery, and registry links.",
+      technologies: ["HTML", "CSS", "JavaScript"],
+      demo: "https://ssally5.github.io/jill-and-brady-3-27-27/",
+      github: "",
+      featured: true,
+      image: "assets/images/wedding-preview.png"
     }
   ],
   learning: {
